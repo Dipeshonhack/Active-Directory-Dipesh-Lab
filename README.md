@@ -40,7 +40,15 @@ This repo documents exactly what I configured to demonstrate skills relevant to 
 - **Environment setup:** building and operating Windows Server inside VMware.
 - **Departmental separation:** prepares for role‑based access and policy application by area.
 - **Operational readiness:** clean structure that supports join, policy, and access workflows used in service desks and endpoint teams.
-
+  
+## Evidence (Screenshots)
+- `Vm storage and configuration.png` — VMware resources (4 GB RAM, 2 vCPU, 60 GB, NAT)
+- `DipeshAD.png` — Domain sign‑in (`DIPESHAD\Administrator`) confirmation
+- `Organisational Units.png` — Department OUs created
+- `Ou and users.png` — Sub‑OUs (**Computers/Server/Users**) per department
+- `ICT users.png` — Users in ICT OU (example: **Dipesh Thapa**)
+- `Security Groups.png` — Security and distribution groups (Engineers, Tech officers, Cybersecurity, ICT community)
+- `Dipesh User ICT.png` — New User wizard with UPN/SAM details
 
 
 
